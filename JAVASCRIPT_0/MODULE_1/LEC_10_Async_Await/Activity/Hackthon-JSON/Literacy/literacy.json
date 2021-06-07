@@ -1,0 +1,3776 @@
+{
+    "Cover Page": [
+        {
+            "UNICEF Global database on literacy rate": "Last update: April 2021"
+        },
+        {
+            "undefined": "Indicator definition"
+        },
+        {
+            "undefined": "Definition",
+            "UNICEF Global database on literacy rate": "Literacy rate (SDG4.6.2) – Percentage of population that can both read and write a short, simple statement about their everyday life. "
+        },
+        {
+            "undefined": "Methodology"
+        },
+        {
+            "undefined": "Unit of measure",
+            "UNICEF Global database on literacy rate": "Percentage"
+        },
+        {
+            "undefined": "Time frame for survey",
+            "UNICEF Global database on literacy rate": "UNESCO Institute for Statistics (UIS) data on literacy rate from past 2 years are used. For countries with multiple years of data, the most recent year was used. "
+        },
+        {
+            "undefined": "Glossary - the database contains the following"
+        },
+        {
+            "undefined": "ISO",
+            "UNICEF Global database on literacy rate": "Three-digit alphabetical codes International Standard ISO 3166-1 assigned by the International Organization for Standardization (ISO). The latest version is available online at http://www.iso.org/iso/home/standards/country_codes.htm. (column A)"
+        },
+        {
+            "undefined": "Countries and areas",
+            "UNICEF Global database on literacy rate": "The UNICEF Global databases contain a set of 202 countries as reported on through the State of the World's Children Statistical Annex 2017 (column B)"
+        },
+        {
+            "undefined": "Data Source",
+            "UNICEF Global database on literacy rate": "The data source of adult and youth literacy rate is UNESCO Institute for Statistics (UIS), (column I)"
+        },
+        {
+            "undefined": "Time period",
+            "UNICEF Global database on literacy rate": "Represents the year in which the data was collected. (column J)"
+        },
+        {
+            "undefined": "Region, Sub-region",
+            "UNICEF Global database on literacy rate": "UNICEF regions (column C) and UNICEF Sub-regions (column D)"
+        },
+        {
+            "undefined": "EAP",
+            "UNICEF Global database on literacy rate": "East Asia and the Pacific"
+        },
+        {
+            "undefined": "ECA",
+            "UNICEF Global database on literacy rate": "Europe and Central Asia"
+        },
+        {
+            "undefined": "EECA",
+            "UNICEF Global database on literacy rate": "Eastern Europe and Central Asia"
+        },
+        {
+            "undefined": "ESA",
+            "UNICEF Global database on literacy rate": "Eastern and Southern Africa"
+        },
+        {
+            "undefined": "LAC",
+            "UNICEF Global database on literacy rate": "Latin America and the Caribbean"
+        },
+        {
+            "undefined": "MENA",
+            "UNICEF Global database on literacy rate": "Middle East and North Africa"
+        },
+        {
+            "undefined": "NA",
+            "UNICEF Global database on literacy rate": "North America"
+        },
+        {
+            "undefined": "SA",
+            "UNICEF Global database on literacy rate": "South Asia"
+        },
+        {
+            "undefined": "SSA",
+            "UNICEF Global database on literacy rate": "Sub-Saharan Africa"
+        },
+        {
+            "undefined": "WCA",
+            "UNICEF Global database on literacy rate": "West and Central Africa"
+        },
+        {
+            "undefined": "Development regions",
+            "UNICEF Global database on literacy rate": "Economies are currently divided into four income groupings: low, lower-middle, upper-middle, and high. Income is measured using gross national income (GNI) per capita, in U.S. dollars, converted from local currency using the World Bank Atlas method (column E)."
+        },
+        {
+            "undefined": "Regional Aggregations"
+        },
+        {
+            "undefined": "Regional aggregates for which 50% or more of the corresponding youth/adult are covered are reported."
+        },
+        {
+            "undefined": "Disclaimer"
+        },
+        {
+            "undefined": "All reasonable precautions have been taken to verify the information in this database. In no event shall UNICEF be liable for damages arising from its use or interpretation"
+        }
+    ],
+    "Youth literacy rate, aged 15-24": [
+        {
+            "Sub-region": "UNICEF Sub-region 1",
+            "Gender": "Female",
+            "undefined": "Time period",
+            "Source": "Data source"
+        },
+        {
+            "ISO3": "AFG",
+            "Countries and areas": "Afghanistan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "65",
+            "Gender": "56",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ALB",
+            "Countries and areas": "Albania",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "DZA",
+            "Countries and areas": "Algeria",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "AND",
+            "Countries and areas": "Andorra",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AGO",
+            "Countries and areas": "Angola",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "AIA",
+            "Countries and areas": "Anguilla",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified"
+        },
+        {
+            "ISO3": "ATG",
+            "Countries and areas": "Antigua and Barbuda",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "ARG",
+            "Countries and areas": "Argentina",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ARM",
+            "Countries and areas": "Armenia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "AUS",
+            "Countries and areas": "Australia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AUT",
+            "Countries and areas": "Austria",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AZE",
+            "Countries and areas": "Azerbaijan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BHS",
+            "Countries and areas": "Bahamas",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "BHR",
+            "Countries and areas": "Bahrain",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BGD",
+            "Countries and areas": "Bangladesh",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "95",
+            "Gender": "96",
+            "undefined": "2019",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BRB",
+            "Countries and areas": "Barbados",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BLR",
+            "Countries and areas": "Belarus",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BEL",
+            "Countries and areas": "Belgium",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "BLZ",
+            "Countries and areas": "Belize",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BEN",
+            "Countries and areas": "Benin",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "61",
+            "Gender": "52",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BTN",
+            "Countries and areas": "Bhutan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "BOL",
+            "Countries and areas": "Bolivia (Plurinational State of)",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BIH",
+            "Countries and areas": "Bosnia and Herzegovina",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "BWA",
+            "Countries and areas": "Botswana",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BRA",
+            "Countries and areas": "Brazil",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VGB",
+            "Countries and areas": "British Virgin Islands",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "BRN",
+            "Countries and areas": "Brunei Darussalam",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BGR",
+            "Countries and areas": "Bulgaria",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "BFA",
+            "Countries and areas": "Burkina Faso",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "58",
+            "Gender": "55",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BDI",
+            "Countries and areas": "Burundi",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CPV",
+            "Countries and areas": "Cabo Verde",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "KHM",
+            "Countries and areas": "Cambodia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CMR",
+            "Countries and areas": "Cameroon",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "85",
+            "Gender": "82",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "CAN",
+            "Countries and areas": "Canada",
+            "Region": "NA",
+            "Sub-region": "NA",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CAF",
+            "Countries and areas": "Central African Republic",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "38",
+            "Gender": "29",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TCD",
+            "Countries and areas": "Chad",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CHL",
+            "Countries and areas": "Chile",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "CHN",
+            "Countries and areas": "China",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COL",
+            "Countries and areas": "Colombia",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COM",
+            "Countries and areas": "Comoros",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "78",
+            "Gender": "78",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COG",
+            "Countries and areas": "Congo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "82",
+            "Gender": "79",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COK",
+            "Countries and areas": "Cook Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CRI",
+            "Countries and areas": "Costa Rica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "CIV",
+            "Countries and areas": "Côte d'Ivoire",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "58",
+            "Gender": "53",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "HRV",
+            "Countries and areas": "Croatia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "CUB",
+            "Countries and areas": "Cuba",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "CYP",
+            "Countries and areas": "Cyprus",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "CZE",
+            "Countries and areas": "Czechia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "PRK",
+            "Countries and areas": "Democratic People's Republic of Korea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "COD",
+            "Countries and areas": "Democratic Republic of the Congo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "DNK",
+            "Countries and areas": "Denmark",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DJI",
+            "Countries and areas": "Djibouti",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DMA",
+            "Countries and areas": "Dominica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DOM",
+            "Countries and areas": "Dominican Republic",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "ECU",
+            "Countries and areas": "Ecuador",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "EGY",
+            "Countries and areas": "Egypt",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SLV",
+            "Countries and areas": "El Salvador",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GNQ",
+            "Countries and areas": "Equatorial Guinea",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "ERI",
+            "Countries and areas": "Eritrea",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "93",
+            "Gender": "93",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "EST",
+            "Countries and areas": "Estonia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SWZ",
+            "Countries and areas": "Eswatini",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ETH",
+            "Countries and areas": "Ethiopia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "FJI",
+            "Countries and areas": "Fiji",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "FIN",
+            "Countries and areas": "Finland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "FRA",
+            "Countries and areas": "France",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "GAB",
+            "Countries and areas": "Gabon",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "90",
+            "Gender": "91",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GMB",
+            "Countries and areas": "Gambia",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GEO",
+            "Countries and areas": "Georgia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "DEU",
+            "Countries and areas": "Germany",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "GHA",
+            "Countries and areas": "Ghana",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "92",
+            "Gender": "92",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GRC",
+            "Countries and areas": "Greece",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GRD",
+            "Countries and areas": "Grenada",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GTM",
+            "Countries and areas": "Guatemala",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GIN",
+            "Countries and areas": "Guinea",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GNB",
+            "Countries and areas": "Guinea-Bissau",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GUY",
+            "Countries and areas": "Guyana",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "HTI",
+            "Countries and areas": "Haiti",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "VAT",
+            "Countries and areas": "Holy See",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "HND",
+            "Countries and areas": "Honduras",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "HUN",
+            "Countries and areas": "Hungary",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ISL",
+            "Countries and areas": "Iceland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "IND",
+            "Countries and areas": "India",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed",
+            "Total": "92",
+            "Gender": "90",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "IDN",
+            "Countries and areas": "Indonesia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "IRN",
+            "Countries and areas": "Iran (Islamic Republic of)",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "IRQ",
+            "Countries and areas": "Iraq",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "IRL",
+            "Countries and areas": "Ireland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "ISR",
+            "Countries and areas": "Israel",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ITA",
+            "Countries and areas": "Italy",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "JAM",
+            "Countries and areas": "Jamaica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "JPN",
+            "Countries and areas": "Japan",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "JOR",
+            "Countries and areas": "Jordan",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KAZ",
+            "Countries and areas": "Kazakhstan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KEN",
+            "Countries and areas": "Kenya",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "88",
+            "Gender": "88",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KIR",
+            "Countries and areas": "Kiribati",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "KWT",
+            "Countries and areas": "Kuwait",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KGZ",
+            "Countries and areas": "Kyrgyzstan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LAO",
+            "Countries and areas": "Lao People's Democratic Republic",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LVA",
+            "Countries and areas": "Latvia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LBN",
+            "Countries and areas": "Lebanon",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LSO",
+            "Countries and areas": "Lesotho",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LBR",
+            "Countries and areas": "Liberia",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LBY",
+            "Countries and areas": "Libya",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "LIE",
+            "Countries and areas": "Liechtenstein",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "LTU",
+            "Countries and areas": "Lithuania",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "LUX",
+            "Countries and areas": "Luxembourg",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MDG",
+            "Countries and areas": "Madagascar",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "81",
+            "Gender": "81",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MWI",
+            "Countries and areas": "Malawi",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MYS",
+            "Countries and areas": "Malaysia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MDV",
+            "Countries and areas": "Maldives",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MLI",
+            "Countries and areas": "Mali",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "50",
+            "Gender": "43",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MLT",
+            "Countries and areas": "Malta",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MHL",
+            "Countries and areas": "Marshall Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MRT",
+            "Countries and areas": "Mauritania",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MUS",
+            "Countries and areas": "Mauritius",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MEX",
+            "Countries and areas": "Mexico",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "FSM",
+            "Countries and areas": "Micronesia (Federated States of)",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MCO",
+            "Countries and areas": "Monaco",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MNG",
+            "Countries and areas": "Mongolia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MNE",
+            "Countries and areas": "Montenegro",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MSR",
+            "Countries and areas": "Montserrat",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "MAR",
+            "Countries and areas": "Morocco",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MOZ",
+            "Countries and areas": "Mozambique",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MMR",
+            "Countries and areas": "Myanmar",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "NAM",
+            "Countries and areas": "Namibia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NRU",
+            "Countries and areas": "Nauru",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NPL",
+            "Countries and areas": "Nepal",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "92",
+            "Gender": "91",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NLD",
+            "Countries and areas": "Netherlands",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NZL",
+            "Countries and areas": "New Zealand",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NIC",
+            "Countries and areas": "Nicaragua",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "NER",
+            "Countries and areas": "Niger",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "43",
+            "Gender": "36",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NGA",
+            "Countries and areas": "Nigeria",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "75",
+            "Gender": "68",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NIU",
+            "Countries and areas": "Niue",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MKD",
+            "Countries and areas": "North Macedonia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "NOR",
+            "Countries and areas": "Norway",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "OMN",
+            "Countries and areas": "Oman",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PAK",
+            "Countries and areas": "Pakistan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PLW",
+            "Countries and areas": "Palau",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PAN",
+            "Countries and areas": "Panama",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PNG",
+            "Countries and areas": "Papua New Guinea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PRY",
+            "Countries and areas": "Paraguay",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PER",
+            "Countries and areas": "Peru",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PHL",
+            "Countries and areas": "Philippines",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "POL",
+            "Countries and areas": "Poland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "PRT",
+            "Countries and areas": "Portugal",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "QAT",
+            "Countries and areas": "Qatar",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "KOR",
+            "Countries and areas": "Republic of Korea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MDA",
+            "Countries and areas": "Republic of Moldova",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ROU",
+            "Countries and areas": "Romania",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "RUS",
+            "Countries and areas": "Russian Federation",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "RWA",
+            "Countries and areas": "Rwanda",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "86",
+            "Gender": "89",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KNA",
+            "Countries and areas": "Saint Kitts and Nevis",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "LCA",
+            "Countries and areas": "Saint Lucia",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "VCT",
+            "Countries and areas": "Saint Vincent and the Grenadines",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "WSM",
+            "Countries and areas": "Samoa",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SMR",
+            "Countries and areas": "San Marino",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "STP",
+            "Countries and areas": "Sao Tome and Principe",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SAU",
+            "Countries and areas": "Saudi Arabia",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SEN",
+            "Countries and areas": "Senegal",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "SRB",
+            "Countries and areas": "Serbia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SYC",
+            "Countries and areas": "Seychelles",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SLE",
+            "Countries and areas": "Sierra Leone",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "67",
+            "Gender": "63",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SGP",
+            "Countries and areas": "Singapore",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SVK",
+            "Countries and areas": "Slovakia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "SVN",
+            "Countries and areas": "Slovenia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SLB",
+            "Countries and areas": "Solomon Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "SOM",
+            "Countries and areas": "Somalia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "ZAF",
+            "Countries and areas": "South Africa",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SSD",
+            "Countries and areas": "South Sudan",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "48",
+            "Gender": "47",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ESP",
+            "Countries and areas": "Spain",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LKA",
+            "Countries and areas": "Sri Lanka",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PSE",
+            "Countries and areas": "State of Palestine",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SDN",
+            "Countries and areas": "Sudan",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "73",
+            "Gender": "73",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SUR",
+            "Countries and areas": "Suriname",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SWE",
+            "Countries and areas": "Sweden",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CHE",
+            "Countries and areas": "Switzerland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "SYR",
+            "Countries and areas": "Syrian Arab Republic",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TJK",
+            "Countries and areas": "Tajikistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "THA",
+            "Countries and areas": "Thailand",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TLS",
+            "Countries and areas": "Timor-Leste",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Total": "84",
+            "Gender": "85",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TGO",
+            "Countries and areas": "Togo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "TKL",
+            "Countries and areas": "Tokelau",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "TON",
+            "Countries and areas": "Tonga",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TTO",
+            "Countries and areas": "Trinidad and Tobago",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TUN",
+            "Countries and areas": "Tunisia",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TUR",
+            "Countries and areas": "Turkey",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TKM",
+            "Countries and areas": "Turkmenistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TCA",
+            "Countries and areas": "Turks and Caicos Islands",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "TUV",
+            "Countries and areas": "Tuvalu",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "UGA",
+            "Countries and areas": "Uganda",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "89",
+            "Gender": "90",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "UKR",
+            "Countries and areas": "Ukraine",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ARE",
+            "Countries and areas": "United Arab Emirates",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GBR",
+            "Countries and areas": "United Kingdom",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "TZA",
+            "Countries and areas": "United Republic of Tanzania",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "USA",
+            "Countries and areas": "United States",
+            "Region": "NA",
+            "Sub-region": "NA",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "URY",
+            "Countries and areas": "Uruguay",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "UZB",
+            "Countries and areas": "Uzbekistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VUT",
+            "Countries and areas": "Vanuatu",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Total": "96",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VEN",
+            "Countries and areas": "Venezuela (Bolivarian Republic of)",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "VNM",
+            "Countries and areas": "Viet Nam",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "YEM",
+            "Countries and areas": "Yemen",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "ZMB",
+            "Countries and areas": "Zambia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "92",
+            "Gender": "92",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ZWE",
+            "Countries and areas": "Zimbabwe",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "Countries and areas": "Regional aggregates (Only regions where 50% or higher share of youth covered are shown)"
+        },
+        {
+            "Countries and areas": "East Asia & Pacific",
+            "Region": "EAP",
+            "Development Regions": "99"
+        },
+        {
+            "Countries and areas": "Europe & Central Asia",
+            "Region": "ECA",
+            "Development Regions": "99"
+        },
+        {
+            "Countries and areas": "Eastern Europe & Central Asia",
+            "Sub-region": "EECA",
+            "Development Regions": "100"
+        },
+        {
+            "Countries and areas": "Western Europe",
+            "Sub-region": "WE",
+            "Development Regions": " – "
+        },
+        {
+            "Countries and areas": "Latin America & Caribbean",
+            "Region": "LAC",
+            "Development Regions": "99"
+        },
+        {
+            "Countries and areas": "Middle East & North Africa",
+            "Region": "MENA",
+            "Development Regions": "90"
+        },
+        {
+            "Countries and areas": "North America",
+            "Region": "NA",
+            "Development Regions": " – "
+        },
+        {
+            "Countries and areas": "South Asia",
+            "Region": "SA",
+            "Development Regions": "90"
+        },
+        {
+            "Countries and areas": "Sub-Saharan Africa",
+            "Region": "SSA",
+            "Development Regions": "76"
+        },
+        {
+            "Countries and areas": "Eastern & Southern Africa",
+            "Sub-region": "ESA",
+            "Development Regions": "80"
+        },
+        {
+            "Countries and areas": "West & Central Africa",
+            "Sub-region": "WCA",
+            "Development Regions": "72"
+        },
+        {
+            "Countries and areas": "World",
+            "Development Regions": "92"
+        }
+    ],
+    "adult literacy rate, aged 15+": [
+        {
+            "Sub-region": "UNICEF Sub-region 1",
+            "Gender": "Female",
+            "undefined": "Time period",
+            "Source": "Data source"
+        },
+        {
+            "ISO3": "AFG",
+            "Countries and areas": "Afghanistan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "43",
+            "Gender": "30",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ALB",
+            "Countries and areas": "Albania",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "DZA",
+            "Countries and areas": "Algeria",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "81",
+            "Gender": "75",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "AND",
+            "Countries and areas": "Andorra",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AGO",
+            "Countries and areas": "Angola",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "AIA",
+            "Countries and areas": "Anguilla",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified"
+        },
+        {
+            "ISO3": "ATG",
+            "Countries and areas": "Antigua and Barbuda",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "ARG",
+            "Countries and areas": "Argentina",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ARM",
+            "Countries and areas": "Armenia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "AUS",
+            "Countries and areas": "Australia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AUT",
+            "Countries and areas": "Austria",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "AZE",
+            "Countries and areas": "Azerbaijan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BHS",
+            "Countries and areas": "Bahamas",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "BHR",
+            "Countries and areas": "Bahrain",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BGD",
+            "Countries and areas": "Bangladesh",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "75",
+            "Gender": "72",
+            "undefined": "2019",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BRB",
+            "Countries and areas": "Barbados",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BLR",
+            "Countries and areas": "Belarus",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BEL",
+            "Countries and areas": "Belgium",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "BLZ",
+            "Countries and areas": "Belize",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BEN",
+            "Countries and areas": "Benin",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "42",
+            "Gender": "31",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BTN",
+            "Countries and areas": "Bhutan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "BOL",
+            "Countries and areas": "Bolivia (Plurinational State of)",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BIH",
+            "Countries and areas": "Bosnia and Herzegovina",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "BWA",
+            "Countries and areas": "Botswana",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "BRA",
+            "Countries and areas": "Brazil",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "93",
+            "Gender": "93",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VGB",
+            "Countries and areas": "British Virgin Islands",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "BRN",
+            "Countries and areas": "Brunei Darussalam",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BGR",
+            "Countries and areas": "Bulgaria",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "BFA",
+            "Countries and areas": "Burkina Faso",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "41",
+            "Gender": "33",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "BDI",
+            "Countries and areas": "Burundi",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CPV",
+            "Countries and areas": "Cabo Verde",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "KHM",
+            "Countries and areas": "Cambodia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CMR",
+            "Countries and areas": "Cameroon",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "77",
+            "Gender": "72",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "CAN",
+            "Countries and areas": "Canada",
+            "Region": "NA",
+            "Sub-region": "NA",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CAF",
+            "Countries and areas": "Central African Republic",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "37",
+            "Gender": "26",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TCD",
+            "Countries and areas": "Chad",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "CHL",
+            "Countries and areas": "Chile",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "CHN",
+            "Countries and areas": "China",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COL",
+            "Countries and areas": "Colombia",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COM",
+            "Countries and areas": "Comoros",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "59",
+            "Gender": "53",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COG",
+            "Countries and areas": "Congo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "80",
+            "Gender": "75",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "COK",
+            "Countries and areas": "Cook Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CRI",
+            "Countries and areas": "Costa Rica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "CIV",
+            "Countries and areas": "Côte d'Ivoire",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "47",
+            "Gender": "40",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "HRV",
+            "Countries and areas": "Croatia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "CUB",
+            "Countries and areas": "Cuba",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "CYP",
+            "Countries and areas": "Cyprus",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "CZE",
+            "Countries and areas": "Czechia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "PRK",
+            "Countries and areas": "Democratic People's Republic of Korea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "COD",
+            "Countries and areas": "Democratic Republic of the Congo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "DNK",
+            "Countries and areas": "Denmark",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DJI",
+            "Countries and areas": "Djibouti",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DMA",
+            "Countries and areas": "Dominica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "DOM",
+            "Countries and areas": "Dominican Republic",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "ECU",
+            "Countries and areas": "Ecuador",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "EGY",
+            "Countries and areas": "Egypt",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SLV",
+            "Countries and areas": "El Salvador",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "89",
+            "Gender": "87",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GNQ",
+            "Countries and areas": "Equatorial Guinea",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "ERI",
+            "Countries and areas": "Eritrea",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "77",
+            "Gender": "69",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "EST",
+            "Countries and areas": "Estonia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SWZ",
+            "Countries and areas": "Eswatini",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "88",
+            "Gender": "89",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ETH",
+            "Countries and areas": "Ethiopia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "FJI",
+            "Countries and areas": "Fiji",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "FIN",
+            "Countries and areas": "Finland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "FRA",
+            "Countries and areas": "France",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "GAB",
+            "Countries and areas": "Gabon",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "85",
+            "Gender": "83",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GMB",
+            "Countries and areas": "Gambia",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GEO",
+            "Countries and areas": "Georgia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "DEU",
+            "Countries and areas": "Germany",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "GHA",
+            "Countries and areas": "Ghana",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "79",
+            "Gender": "74",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GRC",
+            "Countries and areas": "Greece",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "98",
+            "Gender": "97",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "GRD",
+            "Countries and areas": "Grenada",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GTM",
+            "Countries and areas": "Guatemala",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GIN",
+            "Countries and areas": "Guinea",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GNB",
+            "Countries and areas": "Guinea-Bissau",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "GUY",
+            "Countries and areas": "Guyana",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "HTI",
+            "Countries and areas": "Haiti",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "VAT",
+            "Countries and areas": "Holy See",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "HND",
+            "Countries and areas": "Honduras",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "87",
+            "Gender": "87",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "HUN",
+            "Countries and areas": "Hungary",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ISL",
+            "Countries and areas": "Iceland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "IND",
+            "Countries and areas": "India",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed",
+            "Total": "74",
+            "Gender": "66",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "IDN",
+            "Countries and areas": "Indonesia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "96",
+            "Gender": "94",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "IRN",
+            "Countries and areas": "Iran (Islamic Republic of)",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "IRQ",
+            "Countries and areas": "Iraq",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "IRL",
+            "Countries and areas": "Ireland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "ISR",
+            "Countries and areas": "Israel",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ITA",
+            "Countries and areas": "Italy",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "JAM",
+            "Countries and areas": "Jamaica",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "JPN",
+            "Countries and areas": "Japan",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "JOR",
+            "Countries and areas": "Jordan",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KAZ",
+            "Countries and areas": "Kazakhstan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KEN",
+            "Countries and areas": "Kenya",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "82",
+            "Gender": "78",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KIR",
+            "Countries and areas": "Kiribati",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "KWT",
+            "Countries and areas": "Kuwait",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "96",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KGZ",
+            "Countries and areas": "Kyrgyzstan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LAO",
+            "Countries and areas": "Lao People's Democratic Republic",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LVA",
+            "Countries and areas": "Latvia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LBN",
+            "Countries and areas": "Lebanon",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "93",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LSO",
+            "Countries and areas": "Lesotho",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LBR",
+            "Countries and areas": "Liberia",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "LBY",
+            "Countries and areas": "Libya",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "LIE",
+            "Countries and areas": "Liechtenstein",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "LTU",
+            "Countries and areas": "Lithuania",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "LUX",
+            "Countries and areas": "Luxembourg",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MDG",
+            "Countries and areas": "Madagascar",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "75",
+            "Gender": "72",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MWI",
+            "Countries and areas": "Malawi",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MYS",
+            "Countries and areas": "Malaysia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "94",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MDV",
+            "Countries and areas": "Maldives",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MLI",
+            "Countries and areas": "Mali",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "35",
+            "Gender": "26",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MLT",
+            "Countries and areas": "Malta",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "95",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MHL",
+            "Countries and areas": "Marshall Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MRT",
+            "Countries and areas": "Mauritania",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MUS",
+            "Countries and areas": "Mauritius",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "91",
+            "Gender": "89",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MEX",
+            "Countries and areas": "Mexico",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "FSM",
+            "Countries and areas": "Micronesia (Federated States of)",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MCO",
+            "Countries and areas": "Monaco",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MNG",
+            "Countries and areas": "Mongolia",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "98",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MNE",
+            "Countries and areas": "Montenegro",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MSR",
+            "Countries and areas": "Montserrat",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "MAR",
+            "Countries and areas": "Morocco",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "74",
+            "Gender": "65",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "MOZ",
+            "Countries and areas": "Mozambique",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "MMR",
+            "Countries and areas": "Myanmar",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "NAM",
+            "Countries and areas": "Namibia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "92",
+            "Gender": "91",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NRU",
+            "Countries and areas": "Nauru",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NPL",
+            "Countries and areas": "Nepal",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Least Developed",
+            "Total": "68",
+            "Gender": "60",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NLD",
+            "Countries and areas": "Netherlands",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NZL",
+            "Countries and areas": "New Zealand",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "NIC",
+            "Countries and areas": "Nicaragua",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "NER",
+            "Countries and areas": "Niger",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "35",
+            "Gender": "27",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NGA",
+            "Countries and areas": "Nigeria",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Less Developed",
+            "Total": "62",
+            "Gender": "53",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "NIU",
+            "Countries and areas": "Niue",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "MKD",
+            "Countries and areas": "North Macedonia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "NOR",
+            "Countries and areas": "Norway",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "OMN",
+            "Countries and areas": "Oman",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "96",
+            "Gender": "93",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PAK",
+            "Countries and areas": "Pakistan",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PLW",
+            "Countries and areas": "Palau",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PAN",
+            "Countries and areas": "Panama",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PNG",
+            "Countries and areas": "Papua New Guinea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "PRY",
+            "Countries and areas": "Paraguay",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "94",
+            "Gender": "94",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PER",
+            "Countries and areas": "Peru",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "94",
+            "Gender": "92",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PHL",
+            "Countries and areas": "Philippines",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "POL",
+            "Countries and areas": "Poland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "PRT",
+            "Countries and areas": "Portugal",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "96",
+            "Gender": "95",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "QAT",
+            "Countries and areas": "Qatar",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "KOR",
+            "Countries and areas": "Republic of Korea",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "MDA",
+            "Countries and areas": "Republic of Moldova",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ROU",
+            "Countries and areas": "Romania",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "RUS",
+            "Countries and areas": "Russian Federation",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "RWA",
+            "Countries and areas": "Rwanda",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "73",
+            "Gender": "69",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "KNA",
+            "Countries and areas": "Saint Kitts and Nevis",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "LCA",
+            "Countries and areas": "Saint Lucia",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "VCT",
+            "Countries and areas": "Saint Vincent and the Grenadines",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "WSM",
+            "Countries and areas": "Samoa",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SMR",
+            "Countries and areas": "San Marino",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "STP",
+            "Countries and areas": "Sao Tome and Principe",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "93",
+            "Gender": "90",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SAU",
+            "Countries and areas": "Saudi Arabia",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SEN",
+            "Countries and areas": "Senegal",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "SRB",
+            "Countries and areas": "Serbia",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SYC",
+            "Countries and areas": "Seychelles",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed",
+            "Total": "96",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SLE",
+            "Countries and areas": "Sierra Leone",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed",
+            "Total": "43",
+            "Gender": "35",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SGP",
+            "Countries and areas": "Singapore",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SVK",
+            "Countries and areas": "Slovakia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "SVN",
+            "Countries and areas": "Slovenia",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "SLB",
+            "Countries and areas": "Solomon Islands",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "SOM",
+            "Countries and areas": "Somalia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "ZAF",
+            "Countries and areas": "South Africa",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "SSD",
+            "Countries and areas": "South Sudan",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "35",
+            "Gender": "29",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ESP",
+            "Countries and areas": "Spain",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Total": "98",
+            "Gender": "98",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "LKA",
+            "Countries and areas": "Sri Lanka",
+            "Region": "SA",
+            "Sub-region": "SA",
+            "Development Regions": "Less Developed",
+            "Total": "92",
+            "Gender": "91",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "PSE",
+            "Countries and areas": "State of Palestine",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed",
+            "Total": "97",
+            "Gender": "96",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SDN",
+            "Countries and areas": "Sudan",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "61",
+            "Gender": "56",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SUR",
+            "Countries and areas": "Suriname",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "94",
+            "Gender": "93",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "SWE",
+            "Countries and areas": "Sweden",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "CHE",
+            "Countries and areas": "Switzerland",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "SYR",
+            "Countries and areas": "Syrian Arab Republic",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TJK",
+            "Countries and areas": "Tajikistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "THA",
+            "Countries and areas": "Thailand",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "94",
+            "Gender": "92",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TLS",
+            "Countries and areas": "Timor-Leste",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Total": "68",
+            "Gender": "64",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TGO",
+            "Countries and areas": "Togo",
+            "Region": "SSA",
+            "Sub-region": "WCA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "TKL",
+            "Countries and areas": "Tokelau",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "TON",
+            "Countries and areas": "Tonga",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "TTO",
+            "Countries and areas": "Trinidad and Tobago",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TUN",
+            "Countries and areas": "Tunisia",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TUR",
+            "Countries and areas": "Turkey",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TKM",
+            "Countries and areas": "Turkmenistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "TCA",
+            "Countries and areas": "Turks and Caicos Islands",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Not Classified",
+            "Source": ""
+        },
+        {
+            "ISO3": "TUV",
+            "Countries and areas": "Tuvalu",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "UGA",
+            "Countries and areas": "Uganda",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "77",
+            "Gender": "71",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "UKR",
+            "Countries and areas": "Ukraine",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "More Developed"
+        },
+        {
+            "ISO3": "ARE",
+            "Countries and areas": "United Arab Emirates",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "GBR",
+            "Countries and areas": "United Kingdom",
+            "Region": "ECA",
+            "Sub-region": "WE",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "TZA",
+            "Countries and areas": "United Republic of Tanzania",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "USA",
+            "Countries and areas": "United States",
+            "Region": "NA",
+            "Sub-region": "NA",
+            "Development Regions": "More Developed",
+            "Source": ""
+        },
+        {
+            "ISO3": "URY",
+            "Countries and areas": "Uruguay",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed",
+            "Total": "99",
+            "Gender": "99",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "UZB",
+            "Countries and areas": "Uzbekistan",
+            "Region": "ECA",
+            "Sub-region": "EECA",
+            "Development Regions": "Less Developed",
+            "Total": "100",
+            "Gender": "100",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VUT",
+            "Countries and areas": "Vanuatu",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Least Developed",
+            "Total": "88",
+            "Gender": "87",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "VEN",
+            "Countries and areas": "Venezuela (Bolivarian Republic of)",
+            "Region": "LAC",
+            "Sub-region": "LAC",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "ISO3": "VNM",
+            "Countries and areas": "Viet Nam",
+            "Region": "EAP",
+            "Sub-region": "EAP",
+            "Development Regions": "Less Developed",
+            "Total": "95",
+            "Gender": "94",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "YEM",
+            "Countries and areas": "Yemen",
+            "Region": "MENA",
+            "Sub-region": "MENA",
+            "Development Regions": "Least Developed"
+        },
+        {
+            "ISO3": "ZMB",
+            "Countries and areas": "Zambia",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Least Developed",
+            "Total": "87",
+            "Gender": "83",
+            "undefined": "2018",
+            "Source": "UIS"
+        },
+        {
+            "ISO3": "ZWE",
+            "Countries and areas": "Zimbabwe",
+            "Region": "SSA",
+            "Sub-region": "ESA",
+            "Development Regions": "Less Developed"
+        },
+        {
+            "Countries and areas": "Regional aggregates (Only regions where 50% or higher share of youth/adult covered are shown)"
+        },
+        {
+            "Countries and areas": "East Asia & Pacific",
+            "Region": "EAP",
+            "Development Regions": "96"
+        },
+        {
+            "Countries and areas": "Europe & Central Asia",
+            "Region": "ECA",
+            "Development Regions": " – "
+        },
+        {
+            "Countries and areas": "Eastern Europe & Central Asia",
+            "Sub-region": "EECA",
+            "Development Regions": "99"
+        },
+        {
+            "Countries and areas": "Western Europe",
+            "Sub-region": "WE",
+            "Development Regions": " – "
+        },
+        {
+            "Countries and areas": "Latin America & Caribbean",
+            "Region": "LAC",
+            "Development Regions": "94"
+        },
+        {
+            "Countries and areas": "Middle East & North Africa",
+            "Region": "MENA",
+            "Development Regions": "79"
+        },
+        {
+            "Countries and areas": "North America",
+            "Region": "NA",
+            "Development Regions": " – "
+        },
+        {
+            "Countries and areas": "South Asia",
+            "Region": "SA",
+            "Development Regions": "73"
+        },
+        {
+            "Countries and areas": "Sub-Saharan Africa",
+            "Region": "SSA",
+            "Development Regions": "65"
+        },
+        {
+            "Countries and areas": "Eastern & Southern Africa",
+            "Sub-region": "ESA",
+            "Development Regions": "70"
+        },
+        {
+            "Countries and areas": "West & Central Africa",
+            "Sub-region": "WCA",
+            "Development Regions": "61"
+        },
+        {
+            "Countries and areas": "World",
+            "Development Regions": "86"
+        }
+    ]
+}

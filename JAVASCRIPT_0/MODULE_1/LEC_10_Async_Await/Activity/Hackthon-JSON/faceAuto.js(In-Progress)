@@ -1,0 +1,68 @@
+const puppeteer = require("puppeteer");
+const id= "jawomod604@jmpant.com";
+const pw= "Auto@1234";
+
+let atrocity= (".\Hackthon_1\Atrocity_Data\jsontotext.txt ");
+
+const hs2= "  #ReservationFreeIndia";
+
+async function face(){
+    let browser = await puppeteer.launch({
+        headless: false,
+        defaultViewport: null,
+        args :["--start-maximized"],
+       
+       
+    });
+    let pages= await browser.pages();
+    tab= pages[0];
+    await tab.goto("https://facebook.com/login");
+    await tab.waitForSelector('input[name="email"]',{visible:true});
+    await tab.type('input[name="email"]',id);
+    await tab.waitForTimeout(3000);
+    await tab.type('input[name="pass"]',pw);
+    await tab.waitForSelector('button[id="loginbutton"]',{visible:true});
+    await tab.click('button[name="login"]');
+    await tab.waitForTimeout(5000);
+    await tab.waitForSelector('input[name="global_typeahead"]');
+ 
+
+        await tab.type('input[name="global_typeahead"]',hs2);
+    await tab.waitForTimeout(5000);
+    
+    await tab.click('input[name="global_typeahead"]');
+    await tab.waitForSelector('.j83agx80.bp9cbjyn.oo9gr5id.buofh1pr.ni8dbmo4.stjgntxs.cxgpxx05.dflh9lhu.sj5x9vvc.scb9dxdr',{visible: true});
+    await tab.click('.j83agx80.bp9cbjyn.oo9gr5id.buofh1pr.ni8dbmo4.stjgntxs.cxgpxx05.dflh9lhu.sj5x9vvc.scb9dxdr');
+    
+   addComment(browser ,tab)
+
+}
+face();
+
+async function addComment(browser, tab)
+{
+    await tab.waitForSelector('div[aria-label="Leave a comment"]');
+    console.log('div[aria-label="Leave a comment"]');
+    let allComment= [];
+   for(let i=0 ; i<15 ;i++)
+   {
+       let comspace= await tab.focus('div[aria-label="Leave a comment"]');
+       allComment.push(comspace);
+   }
+   
+   for(let i=0 ; i< allComment.length ;i++)
+   {
+       let comspace= allComment[i];
+       await addCommentJson(tab,comspace);
+       
+   }
+    
+   await addComment(browser,tab)
+
+}
+async function addCommentJson(tab,comspace)
+{
+    await tab.type(comspace);
+    await tab.waitForTimeout(3000);
+  
+}
