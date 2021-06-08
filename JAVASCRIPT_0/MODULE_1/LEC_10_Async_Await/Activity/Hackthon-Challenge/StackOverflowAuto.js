@@ -1,3 +1,4 @@
+
 const puppeteer = require("puppeteer");
 const id = "bonapet643@edmondpt.com";
 const pw = "Test@1234";
@@ -9,6 +10,7 @@ async function login(){
             headless: false,
             defaultViewport: null,
             args: ["--start-maximized"],
+             slowMo : 150
            
             
 
@@ -35,7 +37,7 @@ async function login(){
     // await tab.click(".sm:d-none.svg-icon.iconGear");
     await tab.waitForSelector('input[value="MostFrequent"]',{visible: true});
     await tab.click('input[value="MostFrequent"]');
-    await tab.type('.s-input.js-tageditor-replacing',"Java")
+    await tab.type('.s-input.js-tageditor-replacing',"Java") //You can write any tag in place of Java
     // await tab.click('.grid.gs4.gsx.fl1 ');
     await tab.click('.grid.gs4.gsx.fl1 button[type="submit"] ');
     
@@ -60,6 +62,7 @@ async function QueList(browser, tab)
         allQuesPage.push(Que);
     }
 
+  
     for(let i=0 ; i<allQuesPage.length ;i++)
     {
         let Que = allQuesPage[i];
@@ -84,9 +87,10 @@ async function QueList(browser, tab)
 
 async function searchYtb(newTab, Que , browser)
 {
+   
    await newTab.goto(Que);
-   await newTab.waitForTimeout(5000);
 
+   await newTab.waitForTimeout(3000);
 
  //copy 
   await copy(newTab , browser);
@@ -132,9 +136,15 @@ async function search(extraTab)
     await extraTab.click('button[id="search-icon-legacy"]');
     await extraTab.waitForSelector('a[id="video-title"]',{visible:true});
     let allLinks = await extraTab.$$('a[id="video-title"]');
-    let firstLink = allLinks[0];
+    let firstLink = allLinks[1];
     await firstLink.click();
-    await extraTab.waitForTimeout(50000);
+    
+    await extraTab.waitForSelector('button[class="ytp-size-button ytp-button"]',{visible: true});
+    await extraTab.click('button[class="ytp-size-button ytp-button"]');
+    await extraTab.waitForTimeout(5000);
+    // await extraTab.waitForSelector('button[class="ytp-ad-skip-button ytp-button"]',{visible: true});
+    // await extraTab.click('button[class="ytp-ad-skip-button ytp-button"]');
+    await extraTab.waitForTimeout(10000);
     await extraTab.close();
 
 }

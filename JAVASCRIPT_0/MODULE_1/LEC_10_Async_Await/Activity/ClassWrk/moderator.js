@@ -7,7 +7,9 @@ async function login(){
     let browser = await puppeteer.launch({
         headless: false,
         defaultViewport: null,
-        args: ["--start-maximized"]
+        args: ["--start-maximized"],
+        slowMo : 150
+
       });
     let pages = await browser.pages();
     let tab = pages[0];
