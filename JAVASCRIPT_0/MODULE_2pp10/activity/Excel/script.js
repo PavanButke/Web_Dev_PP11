@@ -69,6 +69,17 @@ for (let i = 1; i <= 100; i++) {
       let currCellObj = dataObj[currCellAddress];
 
       currCellObj.value = e.currentTarget.innerText;
+
+      currCellObj.formula = undefined;
+
+      let currUpStream = currCellObj.upstream;
+
+      for(let k =0 ; k< currUpStream.length ; k++)
+      {
+          removeFromDownStream(currUpStream[k], currCellAddress);
+
+      }
+      currCellObj.upstream=[];
       
     });
    
