@@ -106,3 +106,20 @@ for (let i = 1; i <= 100; i++) {
 
   cellSection.append(rowDiv);
 }
+
+function removeFromDownStream(parentCell , childCell)
+{
+
+  let  parentDownStream = dataObj[parentCell].downstream;
+
+  let filteredDownStream = [];
+
+  for( let i=0 ; i<parentDownStream.length ; i++)
+  {
+    if(parentDownStream[i] != childCell);
+    filteredDownStream.push(parentDownStream[i]);
+
+  }
+
+  dataObj[parentCell].downstream = filteredDownStream;
+}
