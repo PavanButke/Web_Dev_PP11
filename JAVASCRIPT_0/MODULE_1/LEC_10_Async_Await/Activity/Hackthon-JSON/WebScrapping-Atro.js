@@ -3,7 +3,7 @@ let wikiLink= "https://en.wikipedia.org/wiki/Caste-related_violence_in_India";
 const request = require("request");
 const cheerio = require("cheerio");
 const fs = require("fs");
-const getAllAtro = require("./atrocities")
+const getAllAtro = require("./atrocities-execution")
 
 
  request( wikiLink, function(error , response ,data){

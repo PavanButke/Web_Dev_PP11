@@ -10,7 +10,7 @@ async function login(){
             headless: false,
             defaultViewport: null,
             args: ["--start-maximized"],
-             slowMo : 150
+             slowMo : 50
            
             
 
