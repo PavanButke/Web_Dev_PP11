@@ -80,6 +80,13 @@ for (let i = 1; i <= 100; i++) {
 
       }
       currCellObj.upstream=[];
+
+      let currDownstream = currCellObj.downstream;
+
+      for(let i=0 ; i < currDownstream.length ; i++)
+      {
+        updateCell(currDownstream);
+      }
       
     });
    
@@ -122,4 +129,26 @@ function removeFromDownStream(parentCell , childCell)
   }
 
   dataObj[parentCell].downstream = filteredDownStream;
+}
+
+function updateCell(cell){
+   let cellObj = dataObj[cell];
+   let upstream = cellObj.upstream;
+   let formula = cellObj.formula;
+
+   let valObj = {};
+
+   for(let i=0 ; i< upstream.length ; i++)
+   {
+     let cellValue = dataObj[upstream[i]].value;
+      valObj[upstream[i]] = cellValue;
+
+   }
+
+   for(let key in valObj)
+   {
+     formula = formula.replace(key , valObj[key]);
+
+   }
+   let newValue = eval(formula);
 }
