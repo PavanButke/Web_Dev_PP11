@@ -6,6 +6,9 @@ let cellSection = document.querySelector(".cell-section");
 let columnTagsSection = document.querySelector(".column-tag-section");
 
 let lastCell;
+let  dataObj = {};
+
+
 
 cellSection.addEventListener("scroll", function (e) {
   rowNumberSection.style.transform = `translateY(-${e.currentTarget.scrollTop}px)`;
@@ -48,15 +51,29 @@ for (let i = 1; i <= 100; i++) {
     let reqAlphabet = String.fromCharCode(asciiCode);
 
     let cellAddress = reqAlphabet + i;
+    dataObj[cellAddress] = {
+      value: undefined,
+      formula : undefined,
+      upstream : [],
+      downstream : [],
+    };
+
 
     let cellDiv = document.createElement("div");
 
     // cellDiv.contentEditable = true
+    cellDiv.addEventListener("input", function(e){
 
+      let currCellAddress = e.currentTarget.getAttribute("data-address");
+
+      let currCellObj = dataObj[currCellAddress];
+
+      currCellObj.value = e.currentTarget.innerText;
+      
+    });
+   
     cellDiv.setAttribute("contentEditable", true);
-
     cellDiv.classList.add("cell");
-
     cellDiv.setAttribute("data-address", cellAddress);
 
     cellDiv.addEventListener("click", function (e) {
