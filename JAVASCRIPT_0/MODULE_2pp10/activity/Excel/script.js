@@ -85,8 +85,12 @@ for (let i = 1; i <= 100; i++) {
 
       for(let i=0 ; i < currDownstream.length ; i++)
       {
-        updateCell(currDownstream);
+        updateCell(currDownstream[i]);
       }
+
+      dataObj[currCellAddress]= currCellObj ;
+
+      console.log(dataObj);
       
     });
    
@@ -113,6 +117,18 @@ for (let i = 1; i <= 100; i++) {
 
   cellSection.append(rowDiv);
 }
+
+  dataObj["A1"].value =20;
+  dataObj["A2"].downstream =["B1"];
+  dataObj["B1"].formula = " 2* A1";
+  dataObj["B1"].upstream = ["A1"];
+  dataObj["B1"].value = 40;
+
+  let a1cell = document.querySelector("[data-address='A1']");
+  let b1cell = document.querySelector("[data-address='B1']") ;
+
+  a1cell.innerText =20;
+  b1cell.innerText =40;
 
 function removeFromDownStream(parentCell , childCell)
 {
@@ -151,4 +167,5 @@ function updateCell(cell){
 
    }
    let newValue = eval(formula);
+   
 }
