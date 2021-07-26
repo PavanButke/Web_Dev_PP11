@@ -14,7 +14,7 @@ let videoPlayer = document.querySelector("video");
           tool.drawImage(videoPlayer , 0, 0);
 
           let url =canvas.toDataURL();
-
+          canvas.remove();
           let a = document.createElement("a");
           a.href = url;
           a.download = "image.png";
