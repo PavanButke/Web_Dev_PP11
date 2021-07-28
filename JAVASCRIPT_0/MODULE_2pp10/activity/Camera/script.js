@@ -7,6 +7,33 @@ let chunks = [];
 let isRecording = false;
 let filter = "";
 
+let currZoom =1;
+let zoomIn = document.querySelector(".in");
+let zoomOut = document.querySelector(".out");
+
+let galleryBtn = document.querySelector("#gallery");
+
+galleryBtn.addEventListener("click", function(){
+  location.assign("gallery.html");
+});
+
+zoomIn.addEventListener("click", function(){
+  currZoom = currZoom +0.1;
+  if(currZoom >3) currZoom=3;
+  console.log(currZoom);
+  videoPlayer.style.transform = `scale(${currZoom})`;
+
+});
+
+zoomOut.addEventListener("click", function(){
+  currZoom = currZoom -0.1;
+  if(currZoom < 1) currZoom=1;
+  console.log(currZoom);
+  videoPlayer.style.transform=`scale(${currZoom})`;
+
+
+})
+
 let allFilters = document.querySelectorAll(".filter");
 
 for (let i = 0; i < allFilters.length; i++) {
@@ -37,6 +64,10 @@ captureBtn.addEventListener("click", function () {
   canvas.height = videoPlayer.videoHeight;
 
   let tool = canvas.getContext("2d");
+  tool.translate(canvas.width/2 , canvas.height/2);
+  tool.scale(currZoom , currZoom);
+  tool.translate(-canvas.width/2 , -canvas.height/2);
+
 
   tool.drawImage(videoPlayer, 0, 0);
 
@@ -48,11 +79,10 @@ captureBtn.addEventListener("click", function () {
   let url = canvas.toDataURL();
   canvas.remove();
 
-  let a = document.createElement("a");
-  a.href = url;
-  a.download = "image.png";
-  a.click();
-  a.remove();
+  saveMedia(url);
+  {
+
+  }
 });
 
 recordBtn.addEventListener("click", function () {
@@ -72,6 +102,8 @@ recordBtn.addEventListener("click", function () {
   } else {
     //recording shuru krni hai
     mediaRecorder.start();
+    currZoom=1;
+    videoPlayer.style.transform = `scale(${currZoom})`;
     isRecording = true;
     innerSpan.classList.add("record-animation");
   }
@@ -97,13 +129,10 @@ promiseToUseCamera
       let blob = new Blob(chunks, { type: "video/mp4" });
       chunks = [];
 
-      let link = URL.createObjectURL(blob); //kisi tarike se blob ki link bnadi h
+      saveMedia(blob);
 
-      let a = document.createElement("a");
-      a.href = link;
-      a.download = "video.mp4";
-      a.click();
-      a.remove();
+
+      
     });
   })
   .catch(function () {

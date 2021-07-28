@@ -36,14 +36,14 @@ viewBtn.addEventListener("click", function(){
         let req = csNotesObjectStore.openCursor();
 
         table.innerHTML= 
-        `<thead>
+        `
         <tr>
             <th>Sr.No.</th>
             <th>Note</th>
             <th>Delete</th>
         </tr>
         
-        /thead>
+        >
   <tbody>
    
   </tbody>`;
