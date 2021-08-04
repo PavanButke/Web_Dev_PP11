@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+}
+
+body{
+    background-color:cadetblue;
+    margin: 0px;
+    padding: 0px;
+
+}
+.container {
+    padding-top: 4%;
+}
+
+.cottonPlant {
+   
+    display: flex;
+  align-items: center;
+  justify-content: center;
+ 
+
+}
+
+.circle {
+  
+    
+    height: 150px;
+    width: 150px;
+    
+  
+    border-radius: 55%;
+    z-index: 10;
+    position: relative;
+
+    top: -200px;
+    left: -350px;
+    animation: 2s scale linear;
+}
+#cir1 {
+    transform-origin: bottom;
+    position: relative;
+    top: 135%;
+    left: 450px;
+    background-color: white;
+    
+    animation: 2s scale linear;
+
+}
+#cir2 {
+    transform-origin: bottom;
+    position: relative;
+    top: 37%;
+    left: 610px;
+    background-color: white
+;
+}
+#cir3 {
+    transform-origin: bottom;
+    position: relative;
+
+    top: -120%;
+    left: 530px;
+    background-color: white;
+    
+}
+
+.line {
+    
+    margin-left: 100px ; 
+    height: 300px;
+    margin-top: 300px;
+    border-left: 5px solid darkgreen;
+    border-bottom: 15%;
+    
+}
+.half-circle {
+        position: relative;
+        top: 10px;
+        left:   -150px;
+        height: 150px ;
+        width: 150px;
+        box-shadow: -10px 20px 0 15px darkgreen;
+        border-radius: 50% ;
+}
+.half-circle2 {
+    position: relative;
+    top: 10px; ;
+    left: -150px; ;
+    height: 150px ;
+    width: 150px;
+    box-shadow: 10px 20px 0 15px darkgreen;
+    border-radius: 50% ;
+}
+
+@keyframes scale {
+         0% {
+             scale: 0.2;
+         }
+         100% {
+             scale: 1;
+         }
+}
