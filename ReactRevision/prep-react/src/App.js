@@ -1,13 +1,12 @@
 import './App.css';
-import Button from './Button';
+import MyFuncComp from './components/MyFuncComp';
 
 
 function App() {
   return (
-    <div className="App">
-      <Button dark/>
-      <Button/>
-    </div>
+      <>
+      <MyFuncComp/>
+      </>
   );
 }
 
