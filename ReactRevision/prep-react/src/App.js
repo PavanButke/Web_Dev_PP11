@@ -1,11 +1,13 @@
 import './App.css';
-import MyFuncComp from './components/MyFuncComp';
+
+import MyUseEffect2 from './components/MyUseEffect2';
 
 
 function App() {
   return (
       <>
-      <MyFuncComp/>
+      {/* <MyFuncComp/> */}
+      < MyUseEffect2 /> // doc.title will not update here
       </>
   );
 }

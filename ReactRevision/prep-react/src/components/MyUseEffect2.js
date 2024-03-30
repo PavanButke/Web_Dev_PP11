@@ -1,11 +1,11 @@
 import React,{useState , useEffect} from 'react'
 
-export default function MyUseEffect1() {
+export default function MyUseEffect2() {
     const [count , setCount] = useState(0);
     useEffect(()=>{
         console.log("useEffect : componentDidMount");
         document.title = `Button clicked ${count} times. : ComponentDidUpdate`
-    })
+    }, [])
     console.log("render")
   return (
     <div>
