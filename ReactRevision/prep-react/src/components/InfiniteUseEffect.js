@@ -8,7 +8,7 @@ export default function InfiniteUseEffect() {
 
         // setCount(100) // will not go in infinite loop as static state ; not changing
         //but now if we are updating value , it will go infinite
-        setCount(Math.random)
+        //setCount(Math.random)
     })
     console.log("render")
   return (
